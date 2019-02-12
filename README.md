@@ -1,7 +1,9 @@
 ## Usage
 
 Clone the repo and install dependencies:
+
 `git clone https://github.com/legitmaxwu/wfb-map.git`
+
 `yarn`
 
 Make an account on Mapbox and get an [access token](https://account.mapbox.com/access-tokens/). Make a `.env` file in the repo's root directory and add this line:
